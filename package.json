@@ -1,0 +1,25 @@
+
+   
+{
+  "name": "vite-exclude-style-plugin",
+  "version": "1.0.1",
+  "description": "vite 构建 css 时, 排除不必要的样式代码",
+  "main": "vite-exclude-style-plugin.js",
+  "exports": {
+    "require": "./vite-exclude-style-plugin.js",
+    "import": "./vite-exclude-style-plugin.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.cnpmjs.org/xiaoyao316/vite-exclude-style-plugin.git"
+  },
+  "keywords": [
+    "vite",
+    "plugin"
+  ],
+  "author": "xiaoyao316",
+  "license": "MIT"
+}
