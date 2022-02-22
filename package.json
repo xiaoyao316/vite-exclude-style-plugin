@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com.cnpmjs.org/xiaoyao316/vite-exclude-style-plugin.git"
+    "url": "https://github.com/xiaoyao316/vite-exclude-style-plugin.git"
   },
   "keywords": [
     "vite",
